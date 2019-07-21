@@ -1,2 +1,2 @@
 # deep-generative-model
-Variational Autoencoder
+Using tensorflow built a variational autoencoder model.
